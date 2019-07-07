@@ -1,0 +1,11 @@
+pl\dg\designpattern\decorator\pc\AbstractProduct.class
+pl\dg\designpattern\decorator\pc\RamDecorator.class
+pl\dg\designpattern\decorator\file\AbstractFileSaverDecorator.class
+pl\dg\designpattern\decorator\pc\AbstractProductDecorator.class
+pl\dg\designpattern\decorator\file\FileSaver.class
+pl\dg\designpattern\decorator\pc\PersonalComputer.class
+pl\dg\designpattern\decorator\pc\CpuDecorator.class
+pl\dg\designpattern\decorator\file\AbstractFileSaver.class
+pl\dg\designpattern\decorator\file\FileSaverAdditionalLogs.class
+pl\dg\designpattern\decorator\pc\MainboardDecorator.class
+pl\dg\designpattern\main.class
