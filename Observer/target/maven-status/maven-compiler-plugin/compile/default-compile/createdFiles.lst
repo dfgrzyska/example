@@ -1,0 +1,10 @@
+pl\dg\designpattern\observer\display\IDisplay.class
+pl\dg\designpattern\observer\display\TvDisplay.class
+pl\dg\designpattern\observer\weatherstation\WeatherStation.class
+pl\dg\designpattern\observer\TimeSchedule.class
+pl\dg\designpattern\observer\weatherstation\IWeatherStation.class
+pl\dg\designpattern\observer\main$1.class
+pl\dg\designpattern\observer\display\ISubscriber.class
+pl\dg\designpattern\observer\main.class
+pl\dg\designpattern\observer\display\PhoneDisplay.class
+pl\dg\designpattern\observer\weatherstation\IObserverable.class
